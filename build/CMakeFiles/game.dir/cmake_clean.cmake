@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/game.dir/src/entities/Entity.cpp.o.d"
   "CMakeFiles/game.dir/src/entities/Player.cpp.o"
   "CMakeFiles/game.dir/src/entities/Player.cpp.o.d"
+  "CMakeFiles/game.dir/src/graphics/Renderer.cpp.o"
+  "CMakeFiles/game.dir/src/graphics/Renderer.cpp.o.d"
   "CMakeFiles/game.dir/src/main.cpp.o"
   "CMakeFiles/game.dir/src/main.cpp.o.d"
   "CMakeFiles/game.dir/src/utils/InputHandler.cpp.o"

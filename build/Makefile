@@ -177,6 +177,30 @@ src/entities/Player.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/src/entities/Player.cpp.s
 .PHONY : src/entities/Player.cpp.s
 
+src/graphics/Renderer.o: src/graphics/Renderer.cpp.o
+.PHONY : src/graphics/Renderer.o
+
+# target to build an object file
+src/graphics/Renderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/src/graphics/Renderer.cpp.o
+.PHONY : src/graphics/Renderer.cpp.o
+
+src/graphics/Renderer.i: src/graphics/Renderer.cpp.i
+.PHONY : src/graphics/Renderer.i
+
+# target to preprocess a source file
+src/graphics/Renderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/src/graphics/Renderer.cpp.i
+.PHONY : src/graphics/Renderer.cpp.i
+
+src/graphics/Renderer.s: src/graphics/Renderer.cpp.s
+.PHONY : src/graphics/Renderer.s
+
+# target to generate assembly for a file
+src/graphics/Renderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/game.dir/build.make CMakeFiles/game.dir/src/graphics/Renderer.cpp.s
+.PHONY : src/graphics/Renderer.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -264,6 +288,9 @@ help:
 	@echo "... src/entities/Player.o"
 	@echo "... src/entities/Player.i"
 	@echo "... src/entities/Player.s"
+	@echo "... src/graphics/Renderer.o"
+	@echo "... src/graphics/Renderer.i"
+	@echo "... src/graphics/Renderer.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

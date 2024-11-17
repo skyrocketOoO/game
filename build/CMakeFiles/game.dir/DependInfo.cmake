@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/qy/project/game/src/entities/Entity.cpp" "CMakeFiles/game.dir/src/entities/Entity.cpp.o" "gcc" "CMakeFiles/game.dir/src/entities/Entity.cpp.o.d"
   "/home/qy/project/game/src/entities/Player.cpp" "CMakeFiles/game.dir/src/entities/Player.cpp.o" "gcc" "CMakeFiles/game.dir/src/entities/Player.cpp.o.d"
+  "/home/qy/project/game/src/graphics/Renderer.cpp" "CMakeFiles/game.dir/src/graphics/Renderer.cpp.o" "gcc" "CMakeFiles/game.dir/src/graphics/Renderer.cpp.o.d"
   "/home/qy/project/game/src/main.cpp" "CMakeFiles/game.dir/src/main.cpp.o" "gcc" "CMakeFiles/game.dir/src/main.cpp.o.d"
   "/home/qy/project/game/src/utils/InputHandler.cpp" "CMakeFiles/game.dir/src/utils/InputHandler.cpp.o" "gcc" "CMakeFiles/game.dir/src/utils/InputHandler.cpp.o.d"
   "/home/qy/project/game/src/utils/Vector2D.cpp" "CMakeFiles/game.dir/src/utils/Vector2D.cpp.o" "gcc" "CMakeFiles/game.dir/src/utils/Vector2D.cpp.o.d"
