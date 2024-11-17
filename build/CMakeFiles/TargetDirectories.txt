@@ -1,0 +1,3 @@
+/home/qy/project/game/build/CMakeFiles/game.dir
+/home/qy/project/game/build/CMakeFiles/edit_cache.dir
+/home/qy/project/game/build/CMakeFiles/rebuild_cache.dir

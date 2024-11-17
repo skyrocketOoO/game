@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/game.dir/src/entities/Entity.cpp.o CMakeFiles/game.dir/src/entities/Player.cpp.o CMakeFiles/game.dir/src/main.cpp.o CMakeFiles/game.dir/src/utils/InputHandler.cpp.o CMakeFiles/game.dir/src/utils/Vector2D.cpp.o -o game  -L/usr/lib/x86_64-linux-gnu  -lSDL2 
